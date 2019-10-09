@@ -1,4 +1,4 @@
-/*
+
 
 let animals = ["dog", "cat", "horse", "mouse", "pig", "cow", "ferret", "lizard", "frog"]
 
@@ -10,5 +10,5 @@ animals.push(lowerCaseNewAnimal)
 
     alert(`The Last Animal is ${animals.slice(-1)}`)
     
-*/
+
 

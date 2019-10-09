@@ -18,16 +18,16 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "animalExtraXP", 
-            "animalExtraXP.json"
+            "animals", 
+            "animals.json"
           ]
         }, 
         {
           "!type": "External", 
           "file": [
             "forms", 
-            "animals", 
-            "animals.json"
+            "animalExtraXP", 
+            "animalExtraXP.json"
           ]
         }, 
         {

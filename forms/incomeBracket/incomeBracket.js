@@ -20,3 +20,8 @@ else if (Number(inptIncome.value >= 99999)) {
   }
   
 }
+
+btnGoAgain.onclick=function() {
+  lblTaxBracket.incomeBracket.reset()
+
+}
