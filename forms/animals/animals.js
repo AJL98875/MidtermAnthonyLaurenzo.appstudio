@@ -11,3 +11,4 @@ animals.push(lowerCaseNewAnimal)
     alert(`The Last Animal is ${animals.slice(-1)}`)
     
 */
+
